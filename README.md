@@ -2,7 +2,7 @@
 Elasticsearch plugin which only provides a TokenFilter that merges tokens in a token stream back into one. Taken from http://elasticsearch-users.115913.n3.nabble.com/Is-there-a-concatenation-filter-td3711094.html
 
 ## ElasticSearch version support
-This plugin is compatible with ES 5.4.2. The original forked version is at https://github.com/francesconero/elasticsearch-concatenate-token-filter
+This plugin is compatible with ES 5.4.2. 
 
 ## Build
 To build .zip or .jar for this plugin, run following command and you should see generated files in `/target`
